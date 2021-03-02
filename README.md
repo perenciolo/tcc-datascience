@@ -3,4 +3,4 @@
 Gustavo Perenciolo
 PUC Minas 2021
 
-Para executar suba o notebook no google colabs.
+Para executar suba o notebook no google colabs, ou execute via jupyter notebooks.
